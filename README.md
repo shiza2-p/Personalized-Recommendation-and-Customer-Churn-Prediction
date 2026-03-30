@@ -40,8 +40,15 @@ By integrating both systems, the framework supports intelligent customer lifecyc
 - 
 ## 📂 Dataset
 Due to GitHub size limitations, the full dataset is hosted externally.
+
 🔗 Download here:
 https://drive.google.com/file/d/1BKcAqjft3xALoGguv6O_q2He0vO8xlut/view?usp=sharing
+
+### 📊 Dataset Description
+The dataset includes customer behavior, transactions, and interaction data used for:
+
+- Personalized Recommendation System
+- Customer Churn Prediction
 
 ## ✨ Features & Approach
 
