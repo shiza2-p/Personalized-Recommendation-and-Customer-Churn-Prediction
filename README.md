@@ -37,11 +37,11 @@ By integrating both systems, the framework supports intelligent customer lifecyc
 - `events.csv` — 2.75M+ user interactions (view, addtocart, transaction)
 - `item_properties_part1.csv` & `item_properties_part2.csv` — Time-dependent product attributes (~417K items)
 - `category_tree.csv` — Hierarchical category structure
-
-**Note**: Due to large file sizes, this repository contains **sampled versions** (`events_sample.csv`, etc.) for demonstration.  
-Full dataset can be downloaded from the Kaggle link above.
-
----
+- 
+## 📂 Dataset
+Due to GitHub size limitations, the full dataset is hosted externally.
+🔗 Download here:
+https://drive.google.com/file/d/1BKcAqjft3xALoGguv6O_q2He0vO8xlut/view?usp=sharing
 
 ## ✨ Features & Approach
 
