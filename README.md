@@ -79,7 +79,3 @@ Full dataset can be downloaded from the Kaggle link above.
 - **Modeling**: scikit-learn, implicit (for SVD)
 - **Visualization**: matplotlib, seaborn
 - **Environment**: Jupyter Notebook
-
----
-
-## 📁 Project Structure
